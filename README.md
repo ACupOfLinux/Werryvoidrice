@@ -20,3 +20,5 @@ https://github.com/jonaburg/picom < This is the one you need to compile>
 Font awesome is needed
 Operator mono nerd font is also needed
 
+## shell ## 
+you need DistroTubes's shell color scripts for this 
