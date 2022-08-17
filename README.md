@@ -14,7 +14,7 @@ mv .config/* ~/.config
 
 
 # IMPORTANT 
-I am using a custom picom form from jonaburg that requires ninja and meson 
+I am using a custom picom fork from jonaburg that requires ninja and meson 
 https://github.com/jonaburg/picom < This is the one you need to compile>
 
 # Fonts
