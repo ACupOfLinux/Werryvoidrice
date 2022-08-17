@@ -23,3 +23,5 @@ Operator mono nerd font is also needed
 
 ## shell ## 
 you need DistroTubes's shell color scripts for this 
+
+https://gitlab.com/dwt1/shell-color-scripts
