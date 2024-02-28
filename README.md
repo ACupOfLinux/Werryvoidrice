@@ -4,7 +4,7 @@
 
 
 # HOW TO INSTALL 
-git clone httpsa://github.com/ACupOfLinux/Werryvoidrice 
+git clone https://github.com/ACupOfLinux/Werryvoidrice 
 
 cd Werryvoidrice 
 
